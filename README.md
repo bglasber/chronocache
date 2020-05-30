@@ -11,7 +11,7 @@ ChronoCache accepts query submissions via a REST interface. To start up ChronoCa
 
 You should first set configuration parameters in Parameters.java and chronocache.properties.
 
-A (very basic) prototype of a JDBC driver is available [here](github.com/bglasber/chronocache_driver).
+A (very basic) prototype of a JDBC driver is available [here](http://github.com/bglasber/chronocache_driver).
 
 ## Citation
 
