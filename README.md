@@ -13,6 +13,8 @@ You should first set configuration parameters in Parameters.java and chronocache
 
 A (very basic) prototype of a JDBC driver is available [here](http://github.com/bglasber/chronocache_driver).
 
+A copy of the REST-based TPC-E benchmark we used to evaluate Chronocache is available [here](https://github.com/bglasber/dbt5).
+
 ## Citation
 
 Brad Glasbergen, Kyle Langendoen, Michael Abebe, Khuzaima Daudjee. ChronoCache: Predictive and Adaptive Mid-Tier Query Result Caching. SIGMOD 2020.
