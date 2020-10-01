@@ -33,7 +33,7 @@ public class Parameters {
 	public static int FIDO_OVERLAP = 4;
 
 	public static int PARSER_POOL_SIZE = 10;
-	public static WorkloadType WORKLOAD_TYPE = WorkloadType.SEATS;
+	public static WorkloadType WORKLOAD_TYPE = WorkloadType.TPCE;
 	public static int LOCAL_DB_CONNS = 100;
 	public static int REMOTE_DB_CONNS = 100;
 }
